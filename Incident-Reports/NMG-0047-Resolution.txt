@@ -1,0 +1,21 @@
+1. Jane is in the wrong OU. She was in the Operations OU.
+2. I found out she was in the Operations OU while she is supposed to be in the HR OU. Because she is an HR Payroll Specialist
+3. Jane Cooper is currently a member of Operations-Users. She should be a member of HR-Users.
+
+
+
+Ticket number: NMG-0047
+
+Affected user: Jane Cooper (jcooper@NMG.com)
+
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from those of teammates.
+
+Root cause: Jane was not in the right OU; she was in the operations OU instead of the HR OU
+
+Fix applied: Switched her from operations to HR
+
+Verification: Double-checked if she is still in Operations and did not see her there. Did the same thing for HR but this time i confirmed she is in the HR OU
+
+Date resolved: 04/09/2026
+
+Resolved by: Owele Yohann E. Toure 
