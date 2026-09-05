@@ -34,6 +34,7 @@ To resolve these critical access control vulnerabilities, I architected and depl
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
+* Solved a mock ticket where a user was given incorrect access
 * Organizational units and security groups design
 * Fully documented my steps end-to-end
 
